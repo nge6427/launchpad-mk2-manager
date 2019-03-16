@@ -1,0 +1,27 @@
+{
+  "name": "launchpad-mk2-manager",
+  "version": "0.1.0",
+  "description": "Controller for Launchpad MK2 with per-button events and multi-page support.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nge6427/launchpad-mk2-manager.git"
+  },
+  "keywords": [
+    "novation",
+    "launchpad",
+    "mk2"
+  ],
+  "author": "nge6427",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nge6427/launchpad-mk2-manager/issues"
+  },
+  "homepage": "https://github.com/nge6427/launchpad-mk2-manager#readme",
+  "dependencies": {
+    "easymidi": "^1.0.1"
+  }
+}
